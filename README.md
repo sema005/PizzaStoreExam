@@ -1,5 +1,6 @@
 ##
-Eksamen Grensesnitt
+This is a group exam that i had in 2021.
+We got an A on this
 
 ## How to install and use 
 ```sh
