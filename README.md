@@ -4,7 +4,7 @@ We got an A on this
 
 ## How to install and use 
 ```sh
-git clone https://github.com/Tomstiani/exam-grensesnitt.git
+git clone https://github.com/sema005/PizzaStoreExam.git
 
 npm install
 
