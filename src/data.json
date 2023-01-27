@@ -1,0 +1,150 @@
+{
+  "pasta": [
+    {
+      "id": 101,
+      "name": "PasPrima",
+      "image": "https://static.lieferando.de/images/chains/de/dominos_neu/products/neu_pasta_pasadena_neu.png",
+      "Ratings": 4,
+      "contains": "mozzarella, tomatsaus pasta",
+      "Allargies": "Gluten, laktose",
+      "price": 129,
+      "quantity": 1,
+      "tags": "pasta, vegetarian"
+    },
+    {
+      "id": 102,
+      "name": "Kremet pasta med ricotta",
+      "image": "https://static.takeaway.com/images/chains/de/dominos_neu/products/neu_pasta_central_park.png?timestamp=1635840314",
+      "ratings": 2,
+      "contains": "tagliatelle, olivenolje, vårløk, ricotta, parmesan, valnøtter, sitron",
+      "allargies": "Gluten, Nøtter, laktose",
+      "price": 129,
+      "quantity": 1,
+      "tags": "pasta, vegetarian"
+    },
+    {
+      "id": 103,
+      "name": "Pasta med pølser",
+      "image": "https://dom-repo-olo-prod.oss-ap-southeast-5.aliyuncs.com/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/e/meatballpastathumbnail.png",
+      "ratings": 2,
+      "contains": "pancetta, parmesan, egg, pasta, persille",
+      "allargies": "Gluten, egg, laktose",
+      "price": 129,
+      "quantity": 1,
+      "tags": "pasta, meat, news"
+    },
+    {
+      "id": 104,
+      "name": "Pasta med blåskjell",
+      "image": "https://dom-repo-olo-prod.oss-ap-southeast-5.aliyuncs.com/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/c/h/chicken-creamy-spaghetti-thumb-550x550px_1.png",
+      "ratings": 2,
+      "contains": "ferske blåskjell, sjalottløk, hvitløk, estragon, persille spaghetti",
+      "allargies": "Gluten, skalldyr, laktose",
+      "price": 129,
+      "quantity": 1,
+      "tags": "pasta, meat, kylling"
+    },
+    {
+      "id": 105,
+      "name": "Kjøttfri pasta",
+      "image": "https://static.lieferando.de/images/chains/de/dominos_neu/products/neu_pasta_orlando.png",
+      "ratings": 2,
+      "contains": "Pasta, vegan spekeskinke, cherrytomater, paprika, grønnsakskraft, jalapenios",
+      "allargies": "Gluten",
+      "price": 129,
+      "quantity": 1,
+      "tags": "pasta, vegan, vegetarian, news"
+    }
+  ],
+  "pizza": [
+    {
+      "id": "000",
+      "name": "Lag din egen",
+      "image": "https://thebigone.dominos.com.au/images/whole-pizza.png",
+      "ratings": 4,
+      "contains": "Du velger!",
+      "allargies": "",
+      "price": 129,
+      "quantity": 1,
+      "tags": "pizza, vegansk, vegetarian, chicken, meat, seafood"
+    },
+    {
+      "id": "001",
+      "name": "Margarita",
+      "image": "https://cdn.sanity.io/images/dycwrm08/production/5532de5ba98d2815a69c23cf255211151cf4daee-2000x2000.png?w=500&h=500&fit=crop&crop=focalpoint&auto=format",
+      "ratings": 4,
+      "contains": "mozzarella, pizzasaus",
+      "allargies": "Gluten, Melk",
+      "price": 129,
+      "quantity": 1,
+      "tags": "pizza, vegetarian"
+    },
+    {
+      "id": "002",
+      "name": "Pepperoni",
+      "image": "https://cdn.sanity.io/images/dycwrm08/production/5bf74b437604bc9f2e54bf0c5c1b517384713887-2000x1994.png?w=500&h=500&fit=crop&crop=focalpoint&auto=format",
+      "ratings": 5,
+      "contains": "mozzarella, pizzasaus, Pepperoni",
+      "allargies": "Gluten, Melk, sennep",
+      "price": 129,
+      "quantity": 1,
+      "tags": "pizza, meat"
+    },
+    {
+      "id": "003",
+      "name": "Skinke",
+      "image": "https://cdn.sanity.io/images/dycwrm08/production/22ffc7ba4222168c3622400f966f9e78efa38342-2185x2131.png?w=500&h=500&fit=crop&crop=focalpoint&auto=format",
+      "ratings": 5,
+      "contains": "mozzarella, pizzasaus, Skinke",
+      "allargies": "Gluten, laktose",
+      "price": 129,
+      "quantity": 1,
+      "tags": "pizza, meat"
+    },
+    {
+      "id": "004",
+      "name": "Pizza Taco",
+      "image": "https://cdn.sanity.io/images/dycwrm08/production/36083ae67f3ca16ff6ad1ef2d338ade72302cc40-2000x1994.png?w=500&h=500&fit=crop&crop=focalpoint&auto=format",
+      "ratings": 5,
+      "contains": "Mozzarella, Pizzasaus, Chorizo,  Tomat",
+      "allargies": "Gluten, laktose, sennep",
+      "price": 129,
+      "quantity": 1,
+      "tags": "pizza, chicken, meat, news"
+    },
+    {
+      "id": "005",
+      "name": "Pizza kjøttboller",
+      "image": "https://cdn.sanity.io/images/dycwrm08/production/4bc4bf14f7c863333b8126a0dbe20a464ae8b32d-1000x997.png",
+      "ratings": 5,
+      "contains": "Mozzarella, Pizzasaus, Coppaskinke, SorteOliven, Blåmuggost, Basilikum",
+      "allargies": "Gluten, laktose",
+      "price": 129,
+      "quantity": 1,
+      "tags": "pizza, meat"
+    },
+    {
+      "id": "006",
+      "name": "Pizza spekeskinke",
+      "image": "https://cdn.sanity.io/images/dycwrm08/production/fbfd40066ece66ff64f54a3cad12fa5aa73f5b2c-2000x2000.png?w=500&h=500&fit=crop&crop=focalpoint&auto=format",
+      "ratings": 5,
+      "contains": "Mozzarella, Pizzasaus, tomat, Mais, Basilikum",
+      "allargies": "Gluten, laktose",
+      "price": 129,
+      "quantity": 1,
+      "tags": "pizza, meat, seafood"
+    },
+    {
+      "id": "007",
+      "name": "Pizza Vegan",
+      "image": "https://www.dominospizza.es/images/HawaianaCrispyDelivery_WS210914_0_ES.png",
+      "ratings": 5,
+      "contains": "Mozzarella, Pizzasaus, tomat, vegan bacon, Basilikum",
+      "allargies": "Gluten, laktose",
+      "price": 129,
+      "quantity": 1,
+      "tags": "pizza, vegansk, vegetarian, news"
+    }
+  ],
+  "other": []
+}

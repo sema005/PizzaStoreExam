@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&display=swap");
+
+* {
+  font-family: Playfair Display;
+}
+
+.order-element {
+  @apply bg-mainBlue dark:bg-darkModeElements flex justify-center items-center h-16 rounded-lg col-span-1 text-white transition-all duration-200 ease-in-out cursor-pointer;
+}
+.order-element:hover {
+  @apply transform scale-95;
+}
+
+.active-filter {
+  @apply bg-mainBlue dark:bg-darkModeElements rounded-sm text-white;
+}
+
+body {
+  @apply dark:bg-darkModeElements;
+}
